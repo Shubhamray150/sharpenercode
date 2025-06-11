@@ -56,8 +56,8 @@ li {
   border-radius: 5px;
 }
 
-.doneTaskBtn,
-.undoneTaskBtn {
+.completeTaskBtn,
+.DeleteTaskBtn {
   border: none;
   padding: 5px;
   width: 40px;
@@ -65,11 +65,11 @@ li {
   border-radius: 5px;
   border: 1px solid black;
 }
-.doneTaskBtn {
+.completeTaskBtn {
   background-color: rgb(255, 94, 94);
 }
 
-.undoneTaskBtn {
+.DeleteTaskBtn {
   background-color: rgb(232, 232, 232);
 }
 
